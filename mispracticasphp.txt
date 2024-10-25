@@ -1,0 +1,2 @@
+En este trabajo hicimos una numeracion del 1 hasta el 100
+tambien lo hicimos en numero par
